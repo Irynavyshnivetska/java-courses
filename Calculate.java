@@ -14,6 +14,10 @@ public class Calculate {
 					int div = third / fourth;
 					System.out.println ("Div3/4=" + div);
                                         	
-              }
+		double degree = Math.pow(first,second);
+		System.out.println ("Degree=" + degree);              
 
 }
+
+}
+
